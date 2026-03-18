@@ -1,0 +1,6 @@
+a= float(input("enter no:"))
+b= float(input("enter no:"))
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)

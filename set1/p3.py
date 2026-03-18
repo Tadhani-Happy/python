@@ -1,0 +1,6 @@
+a = int(input("enter int:"))
+b = int(input("enter int:"))
+c = float(input(" enter float:"))
+a = float(a)
+b = float(b)
+print("avg =",((a+b+c)/3))

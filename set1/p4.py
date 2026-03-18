@@ -1,0 +1,8 @@
+name= input("enter a digit:")
+print(type(name))
+int= int(name)
+print("int=",int, type(int))
+float= float(name)
+print("int=",float, type(float))
+str= str(name)
+print("int=",str, type(str))
